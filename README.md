@@ -12,6 +12,10 @@ This is a portfolio mobile project running with flutter. It displays essential i
 
 ## Feature
 ### Home page
-```markdown
-![profile](assets/images/profile.png)
-```
+![Profile](assets\images\profile.png)
+### Menu
+![Profile](assets\images\Menu.png)
+### Hire
+![Profile](assets\images\Hire.png)
+### CV
+![Profile](assets\images\CV.png)
