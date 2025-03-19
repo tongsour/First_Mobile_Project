@@ -14,8 +14,8 @@ This is a portfolio mobile project running with flutter. It displays essential i
 ### Home page
 ![Profile](assets\images\profile.png)
 ### Menu
-![Profile](assets\images\Menu.png)
+![Menu](assets\images\Menu.png)
 ### Hire
-![Profile](assets\images\Hire.png)
+![Hire](assets\images\Hire.png)
 ### CV
-![Profile](assets\images\CV.png)
+![CV](assets\images\CV.png)
